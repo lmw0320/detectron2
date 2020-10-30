@@ -1,4 +1,6 @@
 ### Requirements
+Install the detectron2 under win10 system by following the steps shown below. Thanks the author for the share.
+
 - Python >= 3.6(Conda)
 - PyTorch 1.3
 - [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
